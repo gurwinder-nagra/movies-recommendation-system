@@ -17,10 +17,10 @@ pip install streamlit requests
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/movie-recommender-system.git
+https://github.com/gurwinder-nagra/movies-recommendation-system.git
 ```
 ```bash
-cd movie-recommender-system
+cd movies-recommendation-system
 ```
 
 Install the required dependencies:
