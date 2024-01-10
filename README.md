@@ -38,8 +38,11 @@ streamlit run app.py
 ## Files
 
 `app.py`: Main Streamlit application for the Movie Recommender System.
+
 `movie_list.pkl`: Pickled file containing movie data.
+
 `similarity.pkl`: Pickled file containing relevant data/method details.
+
 `requirements.txt`: List of Python dependencies.
 
 ## Usage
