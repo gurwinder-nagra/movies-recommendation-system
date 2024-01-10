@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a Movie Recommender System using [insert method here]. It recommends movies based on [insert details here]. The system uses the [TMDB (The Movie Database)](https://www.themoviedb.org/) API to fetch movie posters.
+This project implements a Movie Recommender System. It recommends movies based on Content based. The system uses the [TMDB (The Movie Database)](https://www.themoviedb.org/) API to fetch movie posters.
 
 ## Prerequisites
 
